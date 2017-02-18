@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+影像交易《隱私權政策》
 
-You can use the [editor on GitHub](https://github.com/TameP/photoshop.txt/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+我們收集的資訊：您的Google帳號。舉例來說，可能是類似這樣的字串：yescurtischou@gmail.com。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我們使用資訊的方式：您在操作本程式的過程所產生的資料，將會儲存在雲端資料庫。我們使用您的Google帳號做為存取該資料的索引，以及在線上交易時做為與您通訊的郵件網址。
 
-### Markdown
+我們分享的資訊：您主動張貼的影像將會公開分享給所有人。您的Google帳號完全保密。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TameP/photoshop.txt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+線上交易的資料安全：我們完全採用Google程式內購 (In App Billing) 的架構與邏輯，因此本程式與您的金融資訊無涉。
